@@ -44,7 +44,7 @@ function sortearAmigo(){
 
     //Validamos que haya ingresado la cantidad minima de amigos para realizar un sorteo
     if (cantiadAmigos == null || cantiadAmigos == 1){
-        alert("Por favor agregue al menos 2 nombres, para realziar el sorteo");
+        alert("Por favor agregue al menos 2 nombres, para realizar el sorteo");
 
     //Si logra pasar la validacion de arriba pasamos a realizar el sorteo
     }else{
