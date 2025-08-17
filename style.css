@@ -23,6 +23,12 @@ body {
     align-items: center;
 }
 
+
+.cuentaRegresiva{
+    
+
+}
+
 .main-content {
     display: flex;
     flex-direction: column;
